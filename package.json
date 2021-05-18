@@ -1,0 +1,28 @@
+{
+  "name": "natural-english-ids",
+  "description": "Lets you generate natural probably-unique IDs using english words.",
+  "version": "1.0.0",
+  "main": "nei.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n-young/natural-english-ids.git"
+  },
+  "keywords": [
+    "id",
+    "unique-id",
+    "english-ids",
+    "readable-ids"
+  ],
+  "author": "n-young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/n-young/natural-english-ids/issues"
+  },
+  "homepage": "https://github.com/n-young/natural-english-ids#readme",
+  "dependencies": {
+    "bloomfilter": "^0.0.18"
+  }
+}
