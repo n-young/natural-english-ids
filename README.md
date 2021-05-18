@@ -8,7 +8,7 @@ A unique feature is the option to turn on memory, which will ensure that a gener
 
 ## Installation
 
-TODO: Information on how to install
+`npm i natural-english-ids`
 
 ## Usage
 
